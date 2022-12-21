@@ -7,7 +7,7 @@ Utilizing knowledge of machine learning and neural networks, a binary classifier
 ### Data Preprocessing
 
 #### •	target variable : IS_SUCCESSFUL
-#### •	features: APPLICATION_TYPE
+#### •	features:
 ![Resources/appl_type](Resources/appl_type.png)
 
 #### •	variables that were removed: EIN and NAME
