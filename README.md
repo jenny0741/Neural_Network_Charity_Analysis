@@ -17,6 +17,8 @@
 ![Resources/del3](Resources/del3.png)
 
 #### • Target model performance was not achieved, it was below the accuracy percentage target: 75%
+![Resources/opt_acc](Resources/opt_acc.png)
+
 #### • The number of neurons and activation functions were altered to try and increase model performance
 
 ## Summary
