@@ -8,6 +8,8 @@ Utilizing knowledge of machine learning and neural networks, a binary classifier
 
 #### •	target variable : IS_SUCCESSFUL
 #### •	features: APPLICATION_TYPE
+![Resources/appl_type](Resources/appl_type.png)
+
 #### •	variables that were removed: EIN and NAME
 
 ### Compiling, Training, and Evaluating the Model
