@@ -5,9 +5,9 @@
 ## Results
 
 ### Data Preprocessing
-#### •	IS_SUCCESSFUL variable is the target 
-#### •	APPLICATION_TYPE is the feature
-#### •	EIN and NAME were removed from the input data
+#### •	target variable : IS_SUCCESSFUL
+#### •	features: APPLICATION_TYPE
+#### •	variables that were removed: EIN and NAME
 
 ### Compiling, Training, and Evaluating the Model
 
