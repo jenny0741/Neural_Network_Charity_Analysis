@@ -24,3 +24,4 @@ Utilizing knowledge of machine learning and neural networks, a binary classifier
 #### • The number of neurons and activation functions were altered to try and increase model performance
 
 ## Summary
+The overall results for the deep learning model were comparatively similar before and after optimization. The accuracy of the model would reach approximately 73% which is below the desired percentage. With such a large dataset, it would not be advisable to use a logistic regression to evaluate the data. However, it may be possible to use support vector machines (SVMs). SVMs require less to build and train and work similarly to deep learning models, but they are less prone to overfitting.
