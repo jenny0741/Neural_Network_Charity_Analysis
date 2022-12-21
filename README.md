@@ -1,7 +1,7 @@
 # Neural Network Charity Analysis
 
 ## Purpose
-
+Utilizing knowledge of machine learning and neural networks, a binary classifier was created using a provided dataset to predict the success of applicants.
 ## Results
 
 ### Data Preprocessing
